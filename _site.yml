@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "My resume"
+      href: resume.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<czyang0357@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/colahappypig/
+output:
+  html_document:
+    theme: cerulean
