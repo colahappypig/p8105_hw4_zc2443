@@ -1,0 +1,29 @@
+---
+title: "Ziyang Chen's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Ziyang Chen's brilliant website!
+
+![](https://media.giphy.com/media/LVrS2PnNjILBw82mNM/giphy.gif)
+
+(The gif shows my mood on Monday...)
+
+This is my personal website and it contains my resume and some homework related plots.
+
+# Things that I most enjoy
+
+![](https://media.giphy.com/media/xUPGcKoAYCn5fHK0Zq/giphy.gif)
+
+Workout is my life.
+
+<img src="lol.png" style="width:70%">
+
+League of legends gives me hope.
+
+# My most used study site
+
+I always visit [youtube](https://www.youtube.com) when I don't want to study.
